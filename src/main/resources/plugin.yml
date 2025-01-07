@@ -1,0 +1,5 @@
+name: sqlcreative
+version: '1.0-SNAPSHOT'
+main: net.nehaverse.sqlcreative.Sqlcreative
+api-version: '1.21'
+website: nehaverse.net
